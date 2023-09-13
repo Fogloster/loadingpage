@@ -7,6 +7,6 @@ CSS.registerProperty({
 // НЕ ЗАБЫТЬ ПОМЕНЯТЬ УРЛ
 // НЕ ЗАБЫТЬ РАСКОМЕНТИТЬ
    setTimeout(function(){
-     window.location.href = '';
+     window.location.href = 'https://fogloster.github.io/Black_forum_topics/';
   }, 5000);
  
